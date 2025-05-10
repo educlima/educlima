@@ -1,5 +1,5 @@
 
-<img src="SEU_BANNER_URL_AQUI" alt="Banner Eduardo Lima" width="100%" />
+<img src="https://raw.githubusercontent.com/educlima/educlima/main/A_digital_illustration_in_a_semi-realistic_anime_s.png" alt="Banner Eduardo Lima" width="100%" />
 
 # Eduardo Lima
 
