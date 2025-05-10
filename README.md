@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/educlima/educlima/main/A_digital_illustration_in_a_semi-realistic_anime_s.png" alt="Banner Eduardo Lima" width="100%" />
+<img src="https://github.com/educlima/educlima/assets/286c0c38-0915-42c4-aa07-f1268daa4ef3" alt="Banner Eduardo Lima" width="100%" />
 
 # Eduardo Lima
 
