@@ -1,5 +1,5 @@
 
-<img src="https://github.com/educlima/educlima/assets/286c0c38-0915-42c4-aa07-f1268daa4ef3" alt="Banner Eduardo Lima" width="100%" />
+
 
 # Eduardo Lima
 
