@@ -1,4 +1,5 @@
 <!-- Banner no topo -->
+<!-- Banner no topo -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/286c0c38-0915-42c4-aa07-f1268daa4ef3" alt="Eduardo Lima - Mago Tecnológico" width="100%" />
 </p>
