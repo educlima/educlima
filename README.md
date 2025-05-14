@@ -80,7 +80,7 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 me.display_profile()
-
+<p alinhar="
 ---
 
 
@@ -91,4 +91,4 @@ me.display_profile()
 
 🌐 Portfólio: educlima.github.io/eduardo-portfolio
 
-<p alinhar="
+
