@@ -1,56 +1,63 @@
+<!-- Banner no topo -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/286c0c38-0915-42c4-aa07-f1268daa4ef3" alt="Eduardo Lima - Mago Tecnológico" width="100%" />
+</p>
 
-
-
-# Eduardo Lima
-
-**Estudante de Engenharia de Software – Universidade de Vassouras | 3º Período**  
-Entusiasta em **desenvolvimento web**, **inteligência artificial** e **criação de jogos**.  
-Busco oportunidades de **estágio** e **freelance (nacionais e internacionais)** para adquirir experiência prática e colaborar com projetos inovadores.
+<h1 align="center">✨ Eduardo Lima ✨</h1>
+<p align="center">
+  🎓 Estudante de Engenharia de Software – 3º Período | Universidade de Vassouras <br>
+  💻 Estágio & Freelancer em Sites, IA e Games <br>
+  🚀 Em transição de carreira para o mundo tech
+</p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 Sobre Mim
 
-Atualmente em transição de carreira para a área de tecnologia, estou focado em aprender e aplicar meus conhecimentos em projetos reais.  
-Tenho investido meu tempo em estudos práticos com Python, desenvolvimento web, ferramentas de game design e inteligência artificial.
+Sou apaixonado por tecnologia e estou em transição de carreira, buscando consolidar meus conhecimentos através da prática.  
+Tenho estudado com foco em:
+
+- 💡 Python para automações e back-end
+- 🌐 Desenvolvimento Web com HTML, CSS e JavaScript
+- 🎮 GameDev com Godot (iniciante) e Ren'Py (Visual Novels)
+- 🤖 Inteligência Artificial e Chatbots
+- 🧰 WordPress e GitHub
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-
-Linguagens de Programação: Python, JavaScript
-
-Tecnologias Web: HTML, CSS
-
-Ferramentas: Git, GitHub, WordPress
-
-GameDev: Godot (iniciante), Ren'Py (visual novels)
+| 💻 Linguagens | 🌐 Web | 🕹️ GameDev | ⚙️ Ferramentas |
+|---------------|--------|------------|----------------|
+| Python, JavaScript | HTML5, CSS3 | Godot, Ren'Py | Git, GitHub, WordPress |
 
 ---
 
 ### 🚧 Projetos em Andamento
 
-- **Sistema de Controle de Estoque**  
-  Aplicação leve e funcional para pequenos negócios gerenciarem seus produtos de forma simples.
+- **📦 Sistema de Controle de Estoque**  
+  Aplicação leve para pequenos negócios, com foco em praticidade e organização de produtos.
 
-- **Jogo (RPG estilo anime)**  
-  Projeto autoral baseado em títulos como *Sword Art Online* e *Solo Leveling*. O jogo foca em narrativa, classes mágicas e interação com NPCs, unindo Godot e Ren'Py.
+- **🎮 RPG Estilo Anime**  
+  Inspirado em *Sword Art Online* e *Solo Leveling*, o jogo une narrativa, magia, evolução e interação com NPCs.
 
-- **Blog de Jogos Indie e Tecnologia**  
-  Um espaço onde compartilho minhas análises e experiências com jogos indie, além de reflexões sobre o universo do desenvolvimento e tecnologia. Criado com WordPress.
+- **📰 Blog de Jogos Indie e Tecnologia**  
+  Compartilho experiências com jogos indie e reflexões sobre desenvolvimento, IA e inovação. Criado com WordPress.
 
-- **Portfólio Pessoal**  
-  Desenvolvido para apresentar meus projetos e minha trajetória de forma clara e acessível para recrutadores e potenciais clientes.
+- **🌟 Portfólio Pessoal**  
+  Website responsivo destacando minha jornada, projetos e serviços.  
+  👉 [educlima.github.io/eduardo-portfolio](https://educlima.github.io/eduardo-portfolio)
 
 ---
 
 ### 📫 Contato
 
-- 📧 **Email:** educlima.es@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/eduardo-limaaa](https://www.linkedin.com/in/eduardo-limaaa/)  
-- 🌐 **Portfólio:** [educlima.github.io/eduardo-portfolio](https://educlima.github.io/eduardo-portfolio/index.html)
+- 📧 **Email:** [educlima.es@gmail.com](mailto:educlima.es@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/eduardo-limaaa](https://www.linkedin.com/in/eduardo-limaaa)  
+- 🌐 **Portfólio:** [educlima.github.io/eduardo-portfolio](https://educlima.github.io/eduardo-portfolio)
 
 ---
 
-![Eduardo Lima - Mago Tecnológico](https://github.com/user-attachments/assets/286c0c38-0915-42c4-aa07-f1268daa4ef3)
+<p align="center">
+  Feito com 💙 por <strong>Eduardo Lima</strong> — O Mago Tecnológico 🧙‍♂️✨
+</p>
