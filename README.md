@@ -23,41 +23,32 @@ Tenho estudado com foco em:
 - 🤖 Inteligência Artificial e Chatbots
 - 🧰 WordPress e GitHub
 
----
+```python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+class SoftwareEngineer:
 
-### 🛠️ Tecnologias e Ferramentas
+    def __init__(self):
+        self.name = "Eduardo Lima"
+        self.role = "Estudante de Engenharia de Software"
+        self.university = "Universidade de Vassouras"
+        self.focus = ["Desenvolvimento Web", "Criação de Jogos", "IA"]
+        self.technologies = ["Python", "JavaScript", "HTML", "CSS"]
+        self.tools = ["Git", "GitHub", "Godot", "Ren'Py", "WordPress"]
+        self.language_spoken = ["pt-BR", "en-US"]
 
-| 💻 Linguagens | 🌐 Web | 🕹️ GameDev | ⚙️ Ferramentas |
-|---------------|--------|------------|----------------|
-| Python, JavaScript | HTML5, CSS3 | Godot, Ren'Py | Git, GitHub, WordPress |
+    def say_hi(self):
+        print("Olá, bem-vindo ao meu GitHub! 👋")
+        print("Sou um entusiasta de tecnologia sempre buscando aprender mais.")
 
----
+    def display_profile(self):
+        print(f"Nome: {self.name}")
+        print(f"Curso: {self.role} – {self.university}")
+        print(f"Foco de estudo: {', '.join(self.focus)}")
+        print(f"Tecnologias: {', '.join(self.technologies)}")
+        print(f"Ferramentas: {', '.join(self.tools)}")
+        print(f"Idiomas: {', '.join(self.language_spoken)}")
 
-### 🚧 Projetos em Andamento
-
-- **📦 Sistema de Controle de Estoque**  
-  Aplicação leve para pequenos negócios, com foco em praticidade e organização de produtos.
-
-- **🎮 RPG Estilo Anime**  
-  Inspirado em *Sword Art Online* e *Solo Leveling*, o jogo une narrativa, magia, evolução e interação com NPCs.
-
-- **📰 Blog de Jogos Indie e Tecnologia**  
-  Compartilho experiências com jogos indie e reflexões sobre desenvolvimento, IA e inovação. Criado com WordPress.
-
-- **🌟 Portfólio Pessoal**  
-  Website responsivo destacando minha jornada, projetos e serviços.  
-  👉 [educlima.github.io/eduardo-portfolio](https://educlima.github.io/eduardo-portfolio)
-
----
-
-### 📫 Contato
-
-- 📧 **Email:** [educlima.es@gmail.com](mailto:educlima.es@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/eduardo-limaaa](https://www.linkedin.com/in/eduardo-limaaa)  
-- 🌐 **Portfólio:** [educlima.github.io/eduardo-portfolio](https://educlima.github.io/eduardo-portfolio)
-
----
-
-<p align="center">
-  Feito com 💙 por <strong>Eduardo Lima</strong> — O Mago Tecnológico 🧙‍♂️✨
-</p>
+me = SoftwareEngineer()
+me.say_hi()
+me.display_profile()
