@@ -15,13 +15,13 @@
 ### 👨‍💻 Sobre Mim
 
 Sou apaixonado por tecnologia e estou em transição de carreira, buscando consolidar meus conhecimentos através da prática.  
-Tenho treinado com foco em:
+Tenho estudado com foco em:
 
-- 💡 Python para automações e back-end  
-- 🌐 Desenvolvimento Web com HTML, CSS e JavaScript  
-- 🎮 GameDev com Godot (iniciante) e Ren'Py (Visual Novels)  
-- 🤖 Inteligência Artificial e Chatbots  
-- 🧰 WordPress e GitHub  
+- 💡 Python para automações e back-end
+- 🌐 Desenvolvimento Web com HTML, CSS e JavaScript
+- 🎮 GameDev com Godot (iniciante) e Ren'Py (Visual Novels)
+- 🤖 Inteligência Artificial e Chatbots
+- 🧰 WordPress e GitHub
 
 ---
 
@@ -50,45 +50,16 @@ Tenho treinado com foco em:
 
 ---
 
-### 🧠 Meu Perfil em Python
+### 📫 Contato
 
-```python
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Eduardo Lima"
-        self.role = "Estudante de Engenharia de Software"
-        self.university = "Universidade de Vassouras"
-        self.focus = ["Desenvolvimento Web", "Criação de Jogos", "IA"]
-        self.technologies = ["Python", "JavaScript", "HTML", "CSS"]
-        self.tools = ["Git", "GitHub", "Godot", "Ren'Py", "WordPress"]
-        self.language_spoken = ["pt-BR", "en-US"]
+- 📧 **Email:** [educlima.es@gmail.com](mailto:educlima.es@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/eduardo-limaaa](https://www.linkedin.com/in/eduardo-limaaa)  
+- 🌐 **Portfólio:** [educlima.github.io/eduardo-portfolio](https://educlima.github.io/eduardo-portfolio)
 
-    def say_hi(self):
-        print("Olá, bem-vindo ao meu GitHub! 👋")
-        print("Sou um entusiasta de tecnologia sempre buscando aprender mais.")
-
-    def display_profile(self):
-        print(f"Nome: {self.name}")
-        print(f"Curso: {self.role} – {self.university}")
-        print(f"Foco de estudo: {', '.join(self.focus)}")
-        print(f"Tecnologias: {', '.join(self.technologies)}")
-        print(f"Ferramentas: {', '.join(self.tools)}")
-        print(f"Idiomas: {', '.join(self.language_spoken)}")
-
-me = SoftwareEngineer()
-me.say_hi()
-me.display_profile()
-<p alinhar="
 ---
 
-
-📫 Contato
-📧 E-mail: educlima.es@gmail.com
-
-💼 LinkedIn: linkedin.com/in/eduardo-limaaa
-
-🌐 Portfólio: educlima.github.io/eduardo-portfolio
+<p align="center">
+  Feito com 💙 por <strong>Eduardo Lima</strong> — O Mago Tecnológico 🧙‍♂️✨
+</p>
 
 
